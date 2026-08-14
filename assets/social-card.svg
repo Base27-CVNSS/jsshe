@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">UED Journal of Social Sciences, Humanities and Education</title>
+  <desc id="desc">Open access, peer-reviewed scholarship.</desc>
+  <rect width="1200" height="630" fill="#123f3a"/>
+  <circle cx="1050" cy="500" r="270" fill="none" stroke="#d6ef54" stroke-width="55"/>
+  <circle cx="1030" cy="470" r="390" fill="none" stroke="#9bc9bc" stroke-width="2" opacity=".6"/>
+  <text x="95" y="105" fill="#d6ef54" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5">UED · JSHE</text>
+  <text x="95" y="235" fill="#f4faf7" font-family="Georgia, serif" font-size="68">Journal of Social Sciences,</text>
+  <text x="95" y="320" fill="#f4faf7" font-family="Georgia, serif" font-size="68">Humanities and Education</text>
+  <text x="95" y="420" fill="#bdd5ce" font-family="Arial, sans-serif" font-size="28">Open access · Peer reviewed · ISSN 1859-4603</text>
+  <text x="95" y="540" fill="#f4faf7" font-family="Arial, sans-serif" font-size="20">The University of Danang – University of Science and Education</text>
+</svg>
