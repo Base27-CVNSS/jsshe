@@ -1,0 +1,17 @@
+{
+  "name": "UED Journal of Social Sciences, Humanities and Education",
+  "short_name": "UED-JSHE",
+  "description": "Peer-reviewed, open-access scholarship in social sciences, humanities and education.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#123f3a",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
