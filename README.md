@@ -10,8 +10,9 @@ This presentation layer does not replace the journal's Open Journal Systems inst
 
 ## Design principles
 
-- Monochrome editorial system with a sans-serif type stack.
+- Compact monochrome editorial system with a small sans-serif type scale.
 - One English-language interface with no theme or language controls.
+- Two-level academic masthead with Home, About, Current Issue, Archives, Articles, Editorial Team, and Submissions navigation.
 - Ten articles from Volume 15, Issue 2 (2025).
 - DOI links resolve through `https://doi.org/` to the source record.
 - Articles without a published DOI use a clearly labelled original-article link.
