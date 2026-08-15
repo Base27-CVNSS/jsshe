@@ -4,8 +4,8 @@
   "description": "Peer-reviewed, open-access scholarship in social sciences, humanities and education.",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#fbfaf6",
-  "theme_color": "#123f3a",
+  "background_color": "#f4f4f1",
+  "theme_color": "#f4f4f1",
   "icons": [
     {
       "src": "assets/favicon.svg",
