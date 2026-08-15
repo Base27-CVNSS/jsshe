@@ -10,9 +10,9 @@ This presentation layer does not replace the journal's Open Journal Systems inst
 
 ## Design principles
 
-- Compact monochrome editorial system with a small sans-serif type scale.
+- Compact monochrome editorial system with a small sans-serif type scale and a centered issue column.
 - One English-language interface with no theme or language controls.
-- Two-level academic masthead with Home, About, Current Issue, Archives, Articles, Editorial Team, and Submissions navigation.
+- OJS Novelty-inspired two-level masthead with Home, About, Current Issue, Archives, Articles, Editorial Team, and Submissions navigation plus integrated issue search.
 - Ten articles from Volume 15, Issue 2 (2025).
 - DOI links resolve through `https://doi.org/` to the source record.
 - Articles without a published DOI use a clearly labelled original-article link.
